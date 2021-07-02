@@ -1,0 +1,182 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% One-Page Professional CV
+% LaTeX Template
+% Version 2.0 (2021-07-02)
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Modification Author:
+% Vin Kumar
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage{hyperref}
+\usepackage{tabularx}
+	
+
+%\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage[left=0.3in, top=0.3in, right=0.3in, bottom=0.3in]{geometry} % Document margins
+
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Vin Kumar} % Your name
+\address{
+	+1 (613) 700 - 0343 \\ 
+	\href{mailto:thedualengineer@gmail.com}{thedualengineer@gmail.com}
+}  % Your phone number and email
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+\address{
+	\href{https://www.linkedin.com/in/vin-kumar/}{linkedin.com/in/vin-kumar/} |
+	\href{https://github.com/vkuma}{github.com/vkuma}
+	|
+	\href{https://noisytechnology.com}{noisytechnology.com}
+}
+
+%\address{Ottawa, Ontario, Canada}
+
+\begin{document}
+
+%-------------------------------------------------------------------------------------------------
+
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+\begin{rSubsection}{University of Ottawa} {May 2021}{}
+
+\item Bachelor of Applied Science Electrical Engineering (Co-op) and Bachelor of Science in Computing Technology
+\end{rSubsection}
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Work Experience}
+
+%------------------------------------------------
+
+\begin{rSubsection}{PV Engineer Intern}{January 2020 - September 2020}
+{\href{https://www.ciena.ca/}{Ciena}, Ottawa, ON} {} 
+
+\item Developed a fully functioning System Admin Dashboard that allows the sys. admins to control the different services running in any particular server it was installed on. react/redux/RESTful API/MaterialUI/PHP/Apache/Linux 
+
+\item Created and updated many test and test automation scripts that controlled a variety of proprietary software/tools.
+
+\item Trained in creating captives of different server nodes, through fiber optics, that were used in a multitude of diagnostic tests.
+
+\end{rSubsection}
+
+
+%------------------------------------------------
+
+\begin{rSubsection}{Full Stack Engineer (Co-op)}{May 2017 - August 2017}
+{\href{https://www.fr.groogitsolutions.com/}{GroogIT}, Gatineau, QC} {} 
+
+\item Developed a fully functioning front-end as a dependent entity along with a fully functioning back-end as an independent entity (a Web App) in a 3-man team
+
+\item Front-end, used HTML, CSS, Javascript, JQuery, PHP and used twig to render all of the HTML files
+
+\item Back-end, created a web service using an architectural style called REST along with Symfony’s ORM component known as Doctrine
+
+\end{rSubsection}
+
+%------------------------------------------------
+
+
+\begin{rSubsection}{Software Automation Engineer (Co-op)}{September 2016 - December 2016}{\href{https://ranovus.com/}{Ranovus}, Ottawa, ON} {} 
+
+\item Developed an automated regression test suite to be used by design engineers to verify system functionality. Automated documentation, using the Sphinx compiling tool and ReStructuredText. Python/Pytest/Unittest/Tera Term
+
+\item Performed QA (quality assurance) testing of new firmware/GUI releases for the optical control boards as well as maintenance. Reported all bugs through the use of Bugzilla and Jira tickets.
+
+
+\end{rSubsection}
+
+%------------------------------------------------
+
+\begin{rSubsection}{.Net Programmer (Co-op)}{January 2016 - May 2016} {\href{https://www.tpsgc-pwgsc.gc.ca/comm/index-eng.html}{Public Services and Procurement Canada}, Ottawa, ON} {} 
+
+\item Team 1, Maintained servers by creating a diagnostic log on its status everyday reporting, and investigating on its issues, troubleshooting them.
+
+\item Team 2, Created a full desktop application (Java) to automate server testing and service checks.
+
+\end{rSubsection}
+
+%------------------------------------------------
+
+\begin{rSubsection}{IT Support Assistant (Co-op)}{May 2014 - August 2014}{\href{https://www.uottawa.ca/en}{University of Ottawa}, Ottawa, ON} {}
+
+\item Provided answers to clients by identifying problems; researching answers; guiding clients through corrective steps.
+
+\item Developed client training programs by identifying learning issues; recommending instructional language.
+
+\end{rSubsection}
+%------------------------------------------------
+%------------------------------------------------
+\end{rSection}
+
+%------------------------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	ACTIVITIES STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Activites}
+
+\begin{rSubsection}{Electrical Team Leader}{September  2017 - August 2017} {uOttawa Robotic Boat Competition} {} 
+\item Delegated tasks we planned out the electrical schematics of the boat and planned a head
+\item Held weekly meetings, kept tabs on progress of the team's work and the goal set while also motivating them to continuing them forward
+\end{rSubsection}
+\end{rSection}
+
+%--------------------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Programming Languages & Java, C/C++, Python, HTML/CSS/JavaScript, MATLAB, PHP, SQL, React\\ 
+Knowledge of & PIC Programming, Fusion 360, Electrical/PCB/IC Design, Assembly \& Design \\
+Certificates & Enhanced Security Clearance in 2016 from the Canadian Government (active)\\
+		 %Strong communication skills enhancing team spirit and quality of work \\
+\end{tabular}
+
+\end{rSection}
+
+%---------------------------------------------------------------------------------
+
+
+
+
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%\begin{rSection}{Languages} \itemsep -1pt {}   
+%\item English and Arabic (Fluent)
+%
+%\end{rSection}
+
+\end{document}

@@ -1,0 +1,100 @@
+Vin Kumar
++1 (613) 700-0343 - thedualengineer@gmail.com
+linkedin.com/in/vin-kumar/ — github.com/vkuma — noisytechnology.com
+
+EDUCATION
+=========================================================================
+University of Ottawa ------------------------------------------- May 2021
+  - Bachelor of Applied Science Electrical Engineering 
+  - Bachelor of Science in Computing Technology
+
+
+WORK EXPERIENCE
+=========================================================================
+
+PV Engineer Intern ------------------------ January 2020 - September 2020
+Ciena, Ottawa, ON
+
+  - Developed a fully functioning System Admin Dashboard that allows the 
+    sys. admins to control the different services running in any 
+    particular server it was installed on. 
+	React/redux/RESTful API/JS/PHP/MaterialUI/Apache/Linux
+
+  - Created and updated many test and test automation scripts that 
+    controlled a variety of proprietary software/tools.
+
+  - Trained in creating captives of different server nodes, through fiber 
+    optics, that were used in a multitude of diagnostic tests. Such as 
+    checking different node paths from start to finish while measuring 
+    the bandwidth.
+
+
+Full Stack Engineer (Co-op) --------------------- May 2017 - August 2017
+GroogIT, Gatineau, QC
+
+  - Developed a fully functioning front-end as a dependent entity along 
+    with a fully functioning back-end as an independent entity 
+    (a Web Service) in a 3-man team
+
+  - Front-end, we used HTML, CSS, Javascript, JQuery, PHP and used twig 
+    to render all of the HTML files
+
+  - Back-end, our team created a web service using an architectural 
+    style called REST along with Symfony’s ORM component known as 
+    Doctrine
+
+
+Software Automation Engineer (Co-op) ---- September 2016 - December 2016
+Ranovus, Ottawa, ON
+
+  - Developed an automated regression test suite to be used by design 
+    engineers to verify system functionality. Automated documentation, 
+	using the Sphinx compiling tool and ReStructuredText. 
+	Python/Pytest/Unittest/Tera Term
+
+  - Performed QA (quality assurance) testing of new firmware/GUI 
+    releases for the optical control boards as well as maintenance. 
+	Reported all bugs through the use of Bugzilla and Jira tickets.
+
+
+.Net Programmer (Co-op) ------------------------ January 2016 - May 2016
+Public Services and Procurement Canada, Ottawa, ON
+
+  - Team 1, Maintained servers by creating a diagnostic log on its
+    status everyday reporting, and investigating on its issues, 
+    troubleshooting them.
+
+  - Team 2, Created a full desktop application (from scratch) to 
+    automate server testing and service checks.
+
+
+IT Support Assistant (Co-op) -------------------- May 2014 - August 2014
+University of Ottawa, Ottawa, ON
+
+  - Provided answers to clients by identifying problems; researching 
+    answers; guiding clients through corrective steps.
+	
+  - Developed client training programs by identifying learning issues; 
+    recommending instructional language.
+
+
+ACTIVITES
+=========================================================================
+Electrical Team Leader August 2017 - November 2017
+uOttawa Robotic Boat Competition
+
+  - Delegated tasks we planned out the electrical schematics of the 
+    boat and planned a head
+
+  - Held weekly meetings, kept tabs on progress of the teams work and 
+    the goal set while also motivating them to continuing them forward
+
+
+SKILLS
+=========================================================================
+Programming Languages 
+  - Java, C/C++, Python, HTML/CSS/JavaScript, MATLAB, PHP, SQL, React
+Knowledge of 
+  - PIC Programming, Fusion 360, Electrical/PCB/IC Design, Assembly & Design
+Certificates 
+  - Enhanced Security Clearance in 2016 from the Canadian Government
